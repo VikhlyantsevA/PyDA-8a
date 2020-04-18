@@ -9,4 +9,7 @@
 1. HW_7 - Exceptions and Error Handling
 1. HW_8 - Class concept
 1. HW_9 - Regular expressions and parsing basics
-1. HW_10 - Python lab
+
+## Laboratory works repository
+1. Lab_01 - Python laboratory work
+1. Lab_02 - Statistics laboratory work
