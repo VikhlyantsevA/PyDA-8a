@@ -9,6 +9,11 @@
 1. HW_7 - Exceptions and Error Handling
 1. HW_8 - Class concept
 1. HW_9 - Regular expressions and parsing basics
+1. HW_10 - Numpy library
+1. HW_11 - Pandas library
+1. HW_12 - Functions and working with data
+1. HW_13 - Advanced Pandas. Part 1
+1. HW_14 - Advanced Pandas. Part 2
 
 ## Laboratory works repository
 1. Lab_01 - Python laboratory work
