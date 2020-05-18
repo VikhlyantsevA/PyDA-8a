@@ -14,6 +14,11 @@
 1. HW_12 - Functions and working with data
 1. HW_13 - Advanced Pandas. Part 1
 1. HW_14 - Advanced Pandas. Part 2
+1. HW_15 - Librarie Matplotlib & Seaborn. Visualization
+1. HW_16 - Vectors and matrices
+1. HW_17 - Derivatives and gradient descent
+1. HW_18 - Introduction to statistics
+1. HW_19 - Advanced statistics
 
 ## Laboratory works repository
 1. Lab_01 - Python laboratory work
